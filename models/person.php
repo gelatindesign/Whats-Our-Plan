@@ -3,7 +3,6 @@
 class Person extends Model {
 
 	static $schema = array(
-		'id' => 'int',
 		'name' => 'varchar',
 		'email' => 'varchar'
 	);

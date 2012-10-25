@@ -3,7 +3,6 @@
 class Comment extends Model {
 
 	static $schema = array(
-		'id' => 'int',
 		'comment' => 'text'
 	);
 

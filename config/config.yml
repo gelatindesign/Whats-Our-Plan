@@ -1,0 +1,4 @@
+paths:
+	templates: templates/
+	views:     views/
+	partials:  partials/

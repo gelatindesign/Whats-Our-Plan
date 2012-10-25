@@ -3,7 +3,6 @@
 class Event extends Model {
 
 	static $schema = array(
-		'id' => 'int',
 		'title' => 'varchar'
 	);
 

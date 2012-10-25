@@ -1,7 +1,8 @@
-h1. Plan
+h1. Whats Our Plan
+
+Quick event planning & sharing
 
 * Who
 * What
 * When
 * Comments
-
