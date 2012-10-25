@@ -1,5 +1,12 @@
 {
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "G:/Code/Local/Ares"
+		}
+	],
+
 	"require": {
-		"symfony/Yaml": "2.*"
+		"gelatindesign/ares": "dev-master"
 	}
 }

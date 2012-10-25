@@ -6,3 +6,7 @@ Quick event planning & sharing
 * What
 * When
 * Comments
+
+h2. Ares
+
+_Whats Our Plan_ is built on the "Ares":http://www.github.com/gelatindesign/Ares framework
