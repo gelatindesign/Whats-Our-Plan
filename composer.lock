@@ -1,19 +1,25 @@
 {
-    "hash": "b385463e68bbcfb8513f02f08697ff75",
+    "hash": "7855a60f1bef443ab65c75511bcad690",
     "packages": [
         {
             "name": "gelatindesign/ares",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "G:/Code/Local/Ares",
-                "reference": "b322e18b50ac9af1e9664315860df32cbb73435a"
+                "url": "https://github.com/gelatindesign/Ares",
+                "reference": "901599feeee40ba3bb57d28462fe101fd7eac5d1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/gelatindesign/Ares/zipball/901599feeee40ba3bb57d28462fe101fd7eac5d1",
+                "reference": "901599feeee40ba3bb57d28462fe101fd7eac5d1",
+                "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3",
                 "symfony/yaml": "2.*"
             },
-            "time": "1351212414",
+            "time": "1351212752",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -32,7 +38,11 @@
                 }
             ],
             "description": "A small mvc php framework",
-            "homepage": "http://github.com/gelatindesign/Ares"
+            "homepage": "http://github.com/gelatindesign/Ares",
+            "support": {
+                "source": "https://github.com/gelatindesign/Ares/tree/master",
+                "issues": "https://github.com/gelatindesign/Ares/issues"
+            }
         },
         {
             "name": "symfony/yaml",

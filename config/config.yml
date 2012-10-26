@@ -3,9 +3,11 @@ environment:
   prod: 
 
 paths:
-  templates: templates/
-  views:     views/
-  partials:  partials/
+  controllers: controllers/
+  models:      models/
+  templates:   templates/
+  views:       views/
+  partials:    partials/
 
 routes:
   page: 
