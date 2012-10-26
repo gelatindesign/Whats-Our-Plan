@@ -1,4 +1,11 @@
+environment:
+  dev:  %localhost%
+  prod: 
+
 paths:
-	templates: templates/
-	views:     views/
-	partials:  partials/
+  templates: templates/
+  views:     views/
+  partials:  partials/
+
+routes:
+  page: 

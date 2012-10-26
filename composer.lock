@@ -1,0 +1,93 @@
+{
+    "hash": "b385463e68bbcfb8513f02f08697ff75",
+    "packages": [
+        {
+            "name": "gelatindesign/ares",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "G:/Code/Local/Ares",
+                "reference": "b322e18b50ac9af1e9664315860df32cbb73435a"
+            },
+            "require": {
+                "php": ">=5.3.3",
+                "symfony/yaml": "2.*"
+            },
+            "time": "1351212414",
+            "type": "library",
+            "installation-source": "source",
+            "autoload": {
+                "psr-0": {
+                    "Ares": ""
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Laurence Roberts",
+                    "email": "info@gelatindesign.co.uk",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A small mvc php framework",
+            "homepage": "http://github.com/gelatindesign/Ares"
+        },
+        {
+            "name": "symfony/yaml",
+            "version": "v2.1.2",
+            "target-dir": "Symfony/Component/Yaml",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/Yaml",
+                "reference": "v2.1.0-RC2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/symfony/Yaml/zipball/v2.1.0-RC2",
+                "reference": "v2.1.0-RC2",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "time": "2012-08-22 06:48:41",
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.1-dev"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-0": {
+                    "Symfony\\Component\\Yaml": ""
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "http://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony Yaml Component",
+            "homepage": "http://symfony.com"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "gelatindesign/ares": 20
+    }
+}

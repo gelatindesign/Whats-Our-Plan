@@ -1,7 +1,15 @@
 <?php
 
-require '../autoload.php';
+require '../vendor/autoload.php';
 
-Request::start();
+Ares\Config::$root = dirname(__DIR__);
 
-Router::find();
+try {
+	Ares\Request::start();
+
+} catch (Exception $e) {
+	echo $e->getMessage();
+	exit;
+}
+
+Ares\Router::find();

@@ -6,6 +6,10 @@
 		}
 	],
 
+	"autoload": {
+		"psr-0": { "": ["controllers/", "models/"] }
+	},
+
 	"require": {
 		"gelatindesign/ares": "dev-master"
 	}
