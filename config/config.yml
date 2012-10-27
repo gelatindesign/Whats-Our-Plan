@@ -1,6 +1,5 @@
 environment:
   dev:  %localhost%
-  prod: 
 
 paths:
   controllers: controllers/

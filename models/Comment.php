@@ -1,6 +1,6 @@
 <?php
 
-class Comment extends Model {
+class Comment extends Ares\Model {
 
 	static $schema = array(
 		'comment' => 'text'

@@ -1,6 +1,6 @@
 <?php
 
-class Person extends Model {
+class Person extends Ares\Model {
 
 	static $schema = array(
 		'name' => 'varchar',

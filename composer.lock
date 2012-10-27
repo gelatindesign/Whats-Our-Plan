@@ -1,19 +1,19 @@
 {
-    "hash": "b385463e68bbcfb8513f02f08697ff75",
+    "hash": "ab8574661e005645a17c2606507c2660",
     "packages": [
         {
             "name": "gelatindesign/ares",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "G:/Code/Local/Ares",
-                "reference": "6220a1ebb4d2b62b11e7475a38cc48af345d259b"
+                "url": "E:/Code/Local/Ares",
+                "reference": "aa4b832097bbbda1a1dba6808509a35ce3948c2e"
             },
             "require": {
                 "php": ">=5.3.3",
                 "symfony/yaml": "2.*"
             },
-            "time": "1351275011",
+            "time": "1351356807",
             "type": "library",
             "installation-source": "source",
             "autoload": {
