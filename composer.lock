@@ -7,13 +7,13 @@
             "source": {
                 "type": "git",
                 "url": "E:/Code/Local/Ares",
-                "reference": "aa4b832097bbbda1a1dba6808509a35ce3948c2e"
+                "reference": "836df942740aab8ad144cdeec0d869ab69bf8e42"
             },
             "require": {
                 "php": ">=5.3.3",
                 "symfony/yaml": "2.*"
             },
-            "time": "1351356807",
+            "time": "1351376009",
             "type": "library",
             "installation-source": "source",
             "autoload": {

@@ -2,7 +2,11 @@
 
 require '../vendor/autoload.php';
 
+// Set root path
 Ares\Config::$root = dirname(__DIR__);
+
+// Set controller extension, front/back/other
+Ares\Config::$ctlr_ext = "Front";
 
 // Attempt to start the request
 try {
